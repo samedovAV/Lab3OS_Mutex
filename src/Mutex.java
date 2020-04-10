@@ -6,7 +6,7 @@ public class Mutex {
 
     public static void main(String[] args) {
         // userChoice();
-
+        // Создает новые потоки когда выбираю повторить...
         createThreads();
         userChoice();
 
